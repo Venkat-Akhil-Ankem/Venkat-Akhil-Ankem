@@ -162,9 +162,9 @@ My goal is to develop **optimization algorithms capable of solving real-world de
 
 ## Connect
 
-LinkedIn: (add link)
+LinkedIn: https://www.linkedin.com/in/venkatakhilankem/
 
-Google Scholar: (optional)
+Google Scholar: https://scholar.google.com/citations?user=VUWUWPcAAAAJ&hl=en
 
 
 <!--
