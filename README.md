@@ -127,6 +127,8 @@ Optimization
 
 Mixed-Integer Programming  
 Gurobi  
+CPLEX
+Pyomo
 Large-scale optimization modeling  
 Heuristics and metaheuristics
 
