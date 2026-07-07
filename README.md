@@ -5,7 +5,7 @@
 Ph.D. Candidate in Industrial Engineering  
 Polytechnique Montréal · GERAD  
 
-Operations Research · Large-Scale Optimization · Mixed-Integer Programming  
+Operations Research · Large-Scale Optimization · Applied Machine Learning  
 
 ---
 
@@ -13,7 +13,7 @@ Operations Research · Large-Scale Optimization · Mixed-Integer Programming
 
 I develop **scalable optimization algorithms and research software** for complex industrial decision problems.
 
-My work focuses on **large-scale mixed-integer programming (MILP)** and **algorithmic frameworks** for applications such as **open-pit mine production scheduling**, where models involve massive decision spaces and computational challenges.
+My work focuses on **large-scale mixed-integer programming (MILP)** and **algorithmic frameworks** for applications such as **open-pit mine production scheduling**, where models involve massive decision spaces and computational challenges. I'm also building **graph neural network (GNN) and machine learning models** to predict MILP instance difficulty and guide solver strategy.
 
 I combine:
 
@@ -23,7 +23,7 @@ I combine:
 - rolling-horizon methods
 - Large Neighborhood Search (LNS)
 - optimization software development (C++, Python)
-- emerging integration of machine learning with optimization
+- graph neural networks and machine learning for optimization
 
 ---
 
@@ -41,7 +41,7 @@ I combine:
 - Combinatorial Optimization
 - Heuristics and Metaheuristics
 - Industrial Decision Support Systems
-- Machine Learning for Optimization
+- Graph Neural Networks and Machine Learning for Optimization
 
 ---
 
@@ -56,24 +56,33 @@ Feasibility-driven approach for solving large-scale optimization problems via co
 ### Large Neighborhood Search (LNS)
 Implementation of scalable heuristic improvement methods for combinatorial optimization.
 
-### Machine Learning for Optimization
-Exploring how ML can enhance optimization through learned heuristics and intelligent initialization.
+### Mine Production AI Optimizer
+GNN/ML pipeline for MILP difficulty prediction and solver guidance on open-pit scheduling instances.
+
+### ML Scheduling Difficulty Predictor
+Supervised learning models (scikit-learn) predicting solve time and difficulty from instance structure.
+
+### RL Job Scheduler
+Reinforcement learning approach to job/production scheduling problems.
+
+### Research Paper AI Assistant
+LLM-based tool supporting literature review and academic writing workflows.
 
 ---
 
 ## 🛠 Technical Skills
 
 **Programming:**  
-C++, Python  
+C++, Python, R, SQL, SAS  
 
 **Optimization:**  
-Gurobi, Mixed-Integer Programming, Large-Scale Optimization  
+Gurobi, Xpress, Pyomo, Mixed-Integer Programming, Large-Scale Optimization  
 
 **Data & ML:**  
-NumPy, Pandas, Scikit-learn  
+PyTorch, Graph Neural Networks, NumPy, Pandas, scikit-learn, Supervised Learning, Reinforcement Learning  
 
 **Tools:**  
-Git, Linux, LaTeX  
+Git, Linux, LaTeX, OpenMP  
 
 ---
 
@@ -82,6 +91,10 @@ Git, Linux, LaTeX
 **Venkat Akhil Ankem, Guy Desaulniers, Michel Gamache, Vincent Raymond**  
 *New cutting planes for open-pit mine scheduling with multi-period block extraction*  
 **Computers & Operations Research, 2026**
+
+**Venkat Akhil Ankem, et al.**  
+*A relax-and-repair framework and a parallel warm-start hybrid heuristic for open-pit mine production scheduling*  
+**Engineering Optimization**, under review, 2026
 
 ---
 
@@ -97,10 +110,11 @@ Git, Linux, LaTeX
 ## 🎯 Career Interests
 
 - Optimization Scientist  
+- ML Optimization Engineer  
 - Operations Research Scientist  
 - Research Engineer  
 - Decision Support Systems  
-- Optimization + Machine Learning  
+- Applied Optimization and Machine Learning  
 
 ---
 
