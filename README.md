@@ -47,6 +47,11 @@ I combine:
 
 ## 📌 Featured Projects
 
+### PPO-Mine-Scheduling
+A Proximal Policy Optimization (PPO) deep RL agent that learns to sequence ore block extraction in an open-pit mine
+
+### DQN-Cartpole
+A neural network agent learns through trial and error to balance a pole on a moving cart, implementing the landmark DQN algorithm
 ### Open-Pit Mine Scheduling Optimizer
 Large-scale optimization framework for mine production planning using MILP and advanced heuristics.
 
